@@ -1,4 +1,4 @@
-# Luma Finance 💸
+# Luma Finance 
 
 **Luma Finance** is an Android personal finance management app built for the South African market. The name "Luma" comes from the Zulu word for "bite" or "sting" — referencing the app's goal of helping users take a *bite* out of debt while avoiding the *sting* of unexpected expenses.
 
@@ -22,11 +22,10 @@ Luma Finance was designed to close the gap between independent budgeting aggrega
 | **SARS-Ready Export** | Generates a PDF expense report formatted for tax season. |
 | **Multilingual Support** | Interface available in English, isiZulu, and Afrikaans. |
 
-> ℹ️ *Note: tick/update this table to reflect which features are fully implemented vs. planned/stubbed in the current build, so your lecturer can see scope clearly.*
 
 ---
 
-## 🏗️ Design & Architecture
+## Design & Architecture
 
 Luma Finance follows the **MVVM (Model-View-ViewModel)** architecture recommended by Android Developers, structured as follows:
 
@@ -44,7 +43,7 @@ Full research and design rationale is available in the [`/docs`](./docs) folder 
 
 ---
 
-## 📂 Repository Structure
+##  Repository Structure
 
 ```
 LumaFinance/
@@ -61,7 +60,7 @@ LumaFinance/
 
 ---
 
-## ⚙️ GitHub & GitHub Actions
+##  GitHub & GitHub Actions
 
 This repository is connected to **GitHub Actions** for continuous integration. On every push or pull request to `main`, the workflow:
 
@@ -76,7 +75,7 @@ This ensures the codebase stays in a buildable state throughout development, and
 
 ---
 
-## 📦 Built APK
+##  Built APK
 
 A debug/release APK is available under [Releases](../../releases) (or in the `/apk` folder of this repository).
 
@@ -87,7 +86,7 @@ To install:
 
 ---
 
-## 📑 Research & Design Documents (Part 1)
+##  Research & Design Documents (Part 1)
 
 Copies of the original Part 1 submission are included in this repository for reference:
 
@@ -96,7 +95,7 @@ Copies of the original Part 1 submission are included in this repository for ref
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Language:** Kotlin
 - **IDE:** Android Studio
@@ -107,7 +106,7 @@ Copies of the original Part 1 submission are included in this repository for ref
 
 ---
 
-## 📚 References
+##  References
 
 - Digital Humanity (2025). *Best 4 Budgeting Apps in South Africa.*
 - Android Developers (2024). *App Architecture Guide: MVVM Pattern.*
