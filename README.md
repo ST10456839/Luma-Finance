@@ -4,11 +4,11 @@
 
 Luma Finance was designed to close the gap between independent budgeting aggregators (like Vault22) and bank-native tools (like FNB Smart Budgeting and the Nedbank Money App), while addressing realities specific to South African users — multiple bank accounts, Stokvel savings, load-shedding, and "Black Tax" / family support spending.
 
-> 🎥 **Demo video:** [Watch on YouTube (unlisted)](PASTE_YOUTUBE_LINK_HERE)
+
 
 ---
 
-## 📱 Features
+## Features
 
 | Feature | Description |
 |---|---|
