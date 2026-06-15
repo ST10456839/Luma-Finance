@@ -71,13 +71,13 @@ This repository is connected to **GitHub Actions** for continuous integration. O
 
 This ensures the codebase stays in a buildable state throughout development, and gives a visible build history showing iterative progress on the project.
 
-[![Android CI](../../actions/workflows/android-build.yml/badge.svg)](../../actions/workflows/android-build.yml)
+
 
 ---
 
 ##  Built APK
 
-A debug/release APK is available under [Releases](../../releases) (or in the `/apk` folder of this repository).
+
 
 To install:
 1. Download `LumaFinance.apk` from the link above.
